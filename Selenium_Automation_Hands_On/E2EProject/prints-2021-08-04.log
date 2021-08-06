@@ -1,0 +1,7 @@
+09:38:28.546 [main] INFO  Academy.E2EProject.validateTitle - driver is intialized
+14:56:21.812 [TestNG] INFO  Academy.E2EProject.validateTitle - driver is intialized
+14:58:34.232 [TestNG] INFO  Academy.E2EProject.base - navigation bar is displayed
+14:58:48.407 [TestNG] INFO  Academy.E2EProject.base - Restricted User
+14:58:53.320 [TestNG] INFO  Academy.E2EProject.validateTitle - navigated to home page
+14:59:03.542 [TestNG] INFO  Academy.E2EProject.base - Non Restricted User
+15:30:32.829 [TestNG] INFO  Academy.E2EProject.validateTitle - driver is intialized

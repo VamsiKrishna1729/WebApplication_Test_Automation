@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-11T18:32:58 IST" name="Loan Department Test Suite" finished-at="2021-07-11T18:32:58 IST" duration-ms="111">
+    <groups>
+      <group name="Smoke">
+        <method signature="day1.DemoTestCase1()[pri:0, instance:test.day1@7ea9e1e2]" name="DemoTestCase1" class="test.day1"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2021-07-11T18:32:58 IST" name="Personal Loan" finished-at="2021-07-11T18:32:58 IST" duration-ms="111">
+      <class name="test.day2">
+        <test-method signature="DemoTestCase1(java.lang.String,java.lang.String)[pri:0, instance:test.day2@7a419da4]" started-at="2021-07-11T18:32:58 IST" name="DemoTestCase1" data-provider="getData" finished-at="2021-07-11T18:32:58 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1st_set_username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1st_set_password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoTestCase1 -->
+        <test-method signature="DemoTestCase1(java.lang.String,java.lang.String)[pri:0, instance:test.day2@7a419da4]" started-at="2021-07-11T18:32:58 IST" name="DemoTestCase1" data-provider="getData" finished-at="2021-07-11T18:32:58 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2st_set_username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2st_set_password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoTestCase1 -->
+        <test-method signature="DemoTestCase1(java.lang.String,java.lang.String)[pri:0, instance:test.day2@7a419da4]" started-at="2021-07-11T18:32:58 IST" name="DemoTestCase1" data-provider="getData" finished-at="2021-07-11T18:32:58 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3st_set_username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3st_set_password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoTestCase1 -->
+        <test-method is-config="true" signature="aSuite()[pri:0, instance:test.day2@7a419da4]" started-at="2021-07-11T18:32:58 IST" name="aSuite" finished-at="2021-07-11T18:32:58 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aSuite -->
+      </class> <!-- test.day2 -->
+      <class name="test.day1">
+        <test-method is-config="true" signature="bSuite()[pri:0, instance:test.day1@7ea9e1e2]" started-at="2021-07-11T18:32:58 IST" name="bSuite" finished-at="2021-07-11T18:32:58 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bSuite -->
+        <test-method signature="DemoTestCase1()[pri:0, instance:test.day1@7ea9e1e2]" started-at="2021-07-11T18:32:58 IST" name="DemoTestCase1" finished-at="2021-07-11T18:32:58 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoTestCase1 -->
+        <test-method signature="DemoTestCase2()[pri:0, instance:test.day1@7ea9e1e2]" started-at="2021-07-11T18:32:58 IST" name="DemoTestCase2" finished-at="2021-07-11T18:32:58 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoTestCase2 -->
+      </class> <!-- test.day1 -->
+    </test> <!-- Personal Loan -->
+  </suite> <!-- Loan Department Test Suite -->
+</testng-results>

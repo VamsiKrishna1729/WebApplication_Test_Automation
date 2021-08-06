@@ -1,0 +1,6 @@
+15:31:50.541 [TestNG] INFO  Academy.E2EProject.base - navigation bar is displayed
+15:32:04.068 [TestNG] INFO  Academy.E2EProject.base - Non Restricted User
+15:32:08.053 [TestNG] INFO  Academy.E2EProject.validateTitle - navigated to home page
+23:39:57.545 [TestNG-tests-4] INFO  Academy.E2EProject.validateTitle - driver is intialized
+23:40:22.457 [TestNG-tests-4] INFO  Academy.E2EProject.validateTitle - navigated to home page
+23:40:26.332 [TestNG-tests-2] INFO  Academy.E2EProject.base - navigation bar is displayed

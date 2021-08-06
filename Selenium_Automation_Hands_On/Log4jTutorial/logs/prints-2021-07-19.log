@@ -1,0 +1,9 @@
+09:17:45.413 [main] INFO  beta.Demo1 - object is present
+09:17:45.458 [main] ERROR beta.Demo1 - object is not found
+09:17:45.458 [main] FATAL beta.Demo1 - this is fatal
+09:18:34.812 [main] DEBUG beta.Demo1 - i am debugging
+09:18:34.816 [main] INFO  beta.Demo1 - object is present
+09:18:34.816 [main] ERROR beta.Demo1 - object is not found
+09:18:34.816 [main] FATAL beta.Demo1 - this is fatal
+09:19:18.660 [main] DEBUG beta.Demo1 - i am debugging
+09:19:18.665 [main] INFO  beta.Demo1 - object is present

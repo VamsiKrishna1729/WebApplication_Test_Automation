@@ -1,0 +1,23 @@
+package stepDefinitions;
+
+public class stepDefintion {
+
+	@Given("^User is on Netbanking landing page$")
+	public void user_is_on_Netbanking_Landing()
+	{
+		//code 
+	}
+	
+	@Given("^User is on Netbanking landing page$")
+	public void user_is_on_Netbanking_Landingg()
+	{
+		//code to user navigate to landing page
+	}
+	
+	@When("^User login into application with username and password$")
+	public void user_is_on_Netbankinggg_Landing()
+	{
+		//username and password
+	}
+	
+}

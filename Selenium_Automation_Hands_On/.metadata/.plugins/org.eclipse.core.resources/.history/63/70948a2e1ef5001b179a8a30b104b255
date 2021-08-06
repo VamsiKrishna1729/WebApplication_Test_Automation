@@ -1,0 +1,6 @@
+Feature: Login into Application
+
+Scenario: Positive test validating login
+Given Inintialize the browser with chrome
+And Navigate to "QAClickAcademy" Site
+And
